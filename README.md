@@ -10,7 +10,7 @@ Convolutional Neural Networks have been the go-to model for computer vision task
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/john221wick/cnn-vs-vit.git
+    git clone --depth=1 https://github.com/john221wick/cnn-vs-vit.git
     ```
 2. Install the required packages:
     ```bash
